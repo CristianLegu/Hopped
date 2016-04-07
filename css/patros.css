@@ -99,7 +99,8 @@ footer { background-color: #1E1E1E; width:100%; display:block; color:#f7f7f7; }
 #contact {padding-top:80px;}
 .homeport1 { margin-top:20px; }
 .homeport2 { margin-top:40px; color:#FFC300; }
-.orangeback{ background-color: #008A9B; color: #FFC300 }
+.orangeback{ margin-top: 40px;
+    background-color: #008A9B; color: #FFC300}
 #about p{color:#FFFFFF;line-height: 1.8em;
     font-size: 14px;}
 
